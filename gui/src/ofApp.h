@@ -20,5 +20,16 @@ class ofApp : public ofBaseApp{
 		void windowResized(int w, int h);
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
+
+		ofImage icon;
+		ofImage search;
+		ofImage searchbar;
+		ofImage parisdreamworks;
+		ofImage politicsbrexit;
+		ofImage ubermoney;
+		ofImage catsdogs;
+		ofImage football;
+		ofImage counttweets;
+		ofImage searchresults;
 		
 };
